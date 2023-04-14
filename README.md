@@ -5,7 +5,7 @@ In December 2019, COVID-19 (coronavirus disease 2019) was discovered in Wuhan, C
 
 ## Project Overview
 
-### Presentation Requirements
+## Presentation Requirements
 You will prepare a formal 10-minute presentation that covers the following topics:
 
 Questions that you found interesting and what motivated you to answer them
@@ -15,7 +15,7 @@ Questions that you found interesting and what motivated you to answer them
  <br /> Your conclusions, including a numerical summary and visualizations of the summary
  <br /> The implications of your findings: what do your findings mean?
 
-### Development Requirements
+## Development Requirements
 Use Pandas to clean and format your dataset or datasets. 
 <br />Create a Jupyter notebook describing the data exploration and cleanup process.
 <br />Create a Jupyter notebook illustrating the final data analysis.
@@ -26,3 +26,13 @@ inclusion in your presentation.
 <br />Create a write-up summarizing your major findings. This should include a heading for each “question” 
 that you asked your data as well as a short description of your findings and any relevant plots.
 <br />Bonus: Use at least one API—if you can find one with data pertinent to your primary research questions.
+
+## Analysis
+
+## Successes and Challenges
+
+## Overall
+
+## Helpful Links
+
+## Team Members
