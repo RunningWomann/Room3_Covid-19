@@ -35,4 +35,4 @@ that you asked your data as well as a short description of your findings and any
 
 ## Helpful Links
 
-## Team Members
+## Contributors
