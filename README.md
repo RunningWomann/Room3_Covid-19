@@ -7,8 +7,7 @@ In December 2019, COVID-19 (coronavirus disease 2019) was discovered in Wuhan, C
 
 ### Presentation Requirements
 You will prepare a formal 10-minute presentation that covers the following topics:
-
- <br /> Questions that you found interesting and what motivated you to answer them
+Questions that you found interesting and what motivated you to answer them
   <br />Where and how you found the data you used to answer these questions
   <br />The data exploration and cleanup process (accompanied by your Jupyter notebook)
  <br /> The analysis process (accompanied by your Jupyter notebook)
