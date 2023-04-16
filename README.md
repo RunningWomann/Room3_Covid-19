@@ -36,3 +36,6 @@ that you asked your data as well as a short description of your findings and any
 ## Helpful Links
 
 ## Contributors
+
+## Sources
+Python COVID-19 Data: Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376.
