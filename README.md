@@ -3,7 +3,14 @@
 
 In December 2019, COVID-19 (coronavirus disease 2019) was discovered in Wuhan, China. It is a disease caused by a virus named SARS-CoV-2 that was very contagious and quickly spread around the world. A disease that can feel much like a cold, flu, or pneumonia can attack more than your lungs and respiratory system, other parts of your body may also be affected. Hundreds of thousands of people died in the United States alone. 
 
-## Project Overview
+On January 21, 2020, the CDC confirmed the first case in Washington state. The individual had traveled and returned from Wuhan on January 15th. On March 11, 2020, WHO declares COVID-19 a pandemic. About a week later, on March 19, 2020, a national emergency is declared in the United States. 
+
+A vaccine was later released on December 10, 2020 when an FDA advisory panel recommends Pfizer BioNTech COVID-19 vaccine. On December 17th, an FDA panel backs Moderna COVID-19 vaccine. 
+
+By December 30, 2020, 14 million doses had been distributed out of the allocated 20 million doses.
+
+## Case Analysis Question
+What is the trend of confirmed cases, death rates, and recovered before and after the vaccine? 
 
 ## Presentation Requirements
 You will prepare a formal 10-minute presentation that covers the following topics:
@@ -36,6 +43,7 @@ that you asked your data as well as a short description of your findings and any
 ## Helpful Links
 
 ## Contributors
+Jing Xu, Chun Zhao, Cassie Contreras
 
 ## Sources
 Python COVID-19 Data: Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376.
