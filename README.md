@@ -1,3 +1,7 @@
+![download](https://user-images.githubusercontent.com/126130038/232943819-c7dd3f72-278e-4e11-8736-aa1e4a3fc2b6.jpg)
+
+
+
 # Project 1: COVID Case Study
 ## Background
 
@@ -10,7 +14,9 @@ A vaccine was later released on December 10, 2020 when an FDA advisory panel rec
 By December 30, 2020, 14 million doses had been distributed out of the allocated 20 million doses.
 
 ## Case Analysis Question
-What is the trend of confirmed cases, death rates, and recovered before and after the vaccine? 
+Reviewing Confirmed %,  Recovered %, and Death Rate in the United States, was there a change in the highest affected states before and after vaccine?
+
+Was there an impact on those states that had the highest Vaccinated % in the United States?
 
 ## Presentation Requirements
 You will prepare a formal 10-minute presentation that covers the following topics:
@@ -35,12 +41,16 @@ that you asked your data as well as a short description of your findings and any
 <br />Bonus: Use at least one API—if you can find one with data pertinent to your primary research questions.
 
 ## Analysis
+The vaccine did not affect the confirmed %s, but it did cause the death rate to decrease.
+Three of the top 5 states that had the highest confirmed also had the highest recovery rate.
+When comparing the top 5 states in Confirmed Rate %, Recovery Rate % and Death Rate %, we did not see consistency of the states before and after the vaccine.
+We did not see a strong correlation between the states with the highest vaccination rates and the Recovery Rate %. 
 
 ## Successes and Challenges
-
-## Overall
+A challenge was narrowing down our topics, but we were able to finally conceptualize what we were trying to analyze to determine a topic that best worked for us. 
 
 ## Helpful Links
+https://docs.google.com/presentation/d/12f6PWypGsNkeYricgcT64-h7WkDSZLfVyaP9RTm2fEY/edit?usp=sharing
 
 ## Contributors
 Jing Xu, Chun Zhao, Cassie Contreras
