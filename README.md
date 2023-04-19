@@ -59,3 +59,7 @@ Jing Xu, Chun Zhao, Cassie Contreras
 Background Source: National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases
 
 Python COVID-19 Data: Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376.
+<<<<<<< HEAD
+
+=======
+>>>>>>> be2fe7d27e9a20fcabc711af8d7b5a884edd72d8
