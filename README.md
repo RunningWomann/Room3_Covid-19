@@ -14,7 +14,7 @@ A vaccine was later released on December 10, 2020 when an FDA advisory panel rec
 By December 30, 2020, 14 million doses had been distributed out of the allocated 20 million doses.
 
 ## Case Analysis Question
-Reviewing Confirmed %,  Recovered %, and Death Rate in the United States, was there a change in the highest affected states before and after vaccine?
+Reviewing Confirmed %,  Recovered %, and Death Rate % in the United States, was there a change in the highest affected states before and after the vaccine, and how did the vaccine affect the rates?
 
 Was there an impact on those states that had the highest Vaccinated % in the United States?
 
