@@ -41,10 +41,11 @@ that you asked your data as well as a short description of your findings and any
 <br />Bonus: Use at least one API—if you can find one with data pertinent to your primary research questions.
 
 ## Analysis
-The vaccine did not affect the confirmed %s, but it did cause the death rate to decrease.
-Three of the top 5 states that had the highest confirmed also had the highest recovery rate.
+Three of the top 5 states that had the highest Confirmed Rate % also had the highest Recovery Rate %.  
+The Confirmed Rate % was higher after the vaccine when reviewing the top 5 states.
+Based on the t-test, the vaccination did not significantly decrease the death rate. 
 When comparing the top 5 states in Confirmed Rate %, Recovery Rate % and Death Rate %, we did not see consistency of the states before and after the vaccine.
-We did not see a strong correlation between the states with the highest vaccination rates and the Recovery Rate %. 
+We did not see a strong correlation between the states with the highest Vaccination Rate %s and the Recovery Rate %. 
 
 ## Successes and Challenges
 A challenge was narrowing down our topics, but we were able to finally conceptualize what we were trying to analyze to determine a topic that best worked for us. 
