@@ -50,7 +50,7 @@ inclusion in your presentation.
 that you asked your data as well as a short description of your findings and any relevant plots.
 <br />Bonus: Use at least one API—if you can find one with data pertinent to your primary research questions.
 
-## Analysis
+## Outcome
 Based on the t-test, the vaccination did not significantly decrease the death rate %. 
 The max Confirmed Rate % was higher after the vaccine when reviewing the top 5 states.
 Three of the top 5 states that had the max Confirmed Rate % also had the max Recovery Rate %. 
