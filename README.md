@@ -18,6 +18,16 @@ Reviewing Confirmed %,  Recovered %, and Death Rate % in the United States, was 
 
 Was there an impact on those states that had the highest Vaccinated % in the United States?
 
+Hypothesis: The vaccine will lower the death rate %.
+
+## Data
+We used a Python database named COVID-19 Data Hub to gather data. (Source, below)
+
+We split it between two different data frames: Before the Vaccine and After the Vaccine for USA only.
+
+Data cleaning included removing the U.S territories. (Northern Mariana Islands, Guam, American Samoa, Puerto Rico)
+
+
 ## Presentation Requirements
 You will prepare a formal 10-minute presentation that covers the following topics:
 
@@ -41,9 +51,9 @@ that you asked your data as well as a short description of your findings and any
 <br />Bonus: Use at least one API—if you can find one with data pertinent to your primary research questions.
 
 ## Analysis
-Three of the top 5 states that had the highest Confirmed Rate % also had the highest Recovery Rate %.  
-The Confirmed Rate % was higher after the vaccine when reviewing the top 5 states.
-Based on the t-test, the vaccination did not significantly decrease the death rate. 
+Based on the t-test, the vaccination did not significantly decrease the death rate %. 
+The max Confirmed Rate % was higher after the vaccine when reviewing the top 5 states.
+Three of the top 5 states that had the max Confirmed Rate % also had the max Recovery Rate %. 
 When comparing the top 5 states in Confirmed Rate %, Recovery Rate % and Death Rate %, we did not see consistency of the states before and after the vaccine.
 We did not see a strong correlation between the states with the highest Vaccination Rate %s and the Recovery Rate %. 
 
