@@ -23,7 +23,7 @@ Hypothesis: The vaccine will lower the death rate %.
 ## Data
 We used a Python database named COVID-19 Data Hub to gather data. (Source, below)
 
-We split it between two different data frames: Before the Vaccine and After the Vaccine for USA only.
+We split it between two different data frames: Before the Vaccine and After the Vaccine for USA states only.
 
 Data cleaning included removing the U.S territories. (Northern Mariana Islands, Guam, American Samoa, Puerto Rico)
 
